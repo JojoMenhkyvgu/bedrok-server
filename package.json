@@ -1,0 +1,8 @@
+{
+  "name": "bedrock-afk-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bedrock-protocol": "^3.32.0"
+  }
+}
